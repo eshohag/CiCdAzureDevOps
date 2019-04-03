@@ -166,6 +166,8 @@
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Shohag\Index.cshtml" />
+    <Content Include="Views\Shohag\About.cshtml" />
+    <Content Include="Views\Shohag\Contact.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
